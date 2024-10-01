@@ -1,7 +1,5 @@
-Hiya ^-^
+Hiya!
 
+I'm a developer of sorts I guess. 
 
-<!---
-LiamTormey/LiamTormey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Website: tehhs.github.io (kinda doo doo atm need to rework)
